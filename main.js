@@ -1,7 +1,7 @@
 // Square Inc
 
 function area(size) {
-    return size * 2;
+    return size * size;
 }
 
 function circumference(size) {
